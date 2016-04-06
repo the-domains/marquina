@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[marquina]]></title>
         <description><![CDATA[marquina]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/marquina/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 20:04:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Apr 2016 20:06:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marquina/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3042da6b-7982-416b-aaf7-43bf0289d2c5.jpg">]]></description>
+            <link>https://thegrid.ai/marquina/9ebd9c3d-3210-4937-9a75-b3865097c63b/index.html</link>
+            <guid isPermaLink="false">9ebd9c3d-3210-4937-9a75-b3865097c63b</guid>
+            <pubDate>Wed, 06 Apr 2016 20:06:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5258a313-7725-489d-a6c6-aaee13d76e4e.jpg">]]></description>
-            <link>undefined392dd2dc-33c1-45f9-a87c-89fff1c50be2/index.html</link>
+            <link>https://thegrid.ai/marquina/392dd2dc-33c1-45f9-a87c-89fff1c50be2/index.html</link>
             <guid isPermaLink="false">392dd2dc-33c1-45f9-a87c-89fff1c50be2</guid>
             <pubDate>Wed, 06 Apr 2016 20:03:35 GMT</pubDate>
         </item>
