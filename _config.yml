@@ -1,6 +1,6 @@
 name: marquina
 favicon: null
-layout_spectrum: 0.10357719217427075
+layout_spectrum: 0.6298
 typography_spectrum: 0.5400467438157648
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fff5dd'
-    - '#020202'
-    - '#f7a349'
-    - '#c90000'
-    - '#70676c'
+    - '#fffae8'
+    - '#0b0502'
+    - '#636e82'
+    - '#880000'
+    - '#d69b9f'
   brandStrength: 0.9327898323535919
   lightness: 0.2627304312773049
   saturation: 0.203353340504691
